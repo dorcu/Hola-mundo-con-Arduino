@@ -1,3 +1,8 @@
+// Codigo simple para hacer un Hola Mundo
+// David Ortega Cuadrado - dorcu.com
+// 1 de Abril de 2014
+// hola@dorcu.com
+
 int led = 13; // Creamos una variable de tipo entero (integer) con el valor 13
  
 void setup(){ // Se ejecuta cada vez que el Arduino se inicia

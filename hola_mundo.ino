@@ -1,7 +1,7 @@
 // Codigo simple para hacer un Hola Mundo
-// David Ortega Cuadrado - BitPirata.com
+// David Ortega Cuadrado - dorcu.com
 // 12 de marzo de 2019
-// dorcu.com
+// BitPirata.com
 
 int led = 13; // Creamos una variable de tipo entero (integer) con el valor 13
  
